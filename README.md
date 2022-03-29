@@ -5,4 +5,4 @@ As part of my Msc AI program, I presented this solution as part of my AI plannin
 
 The result is a detailed plan of how to solve a match-three game with rules and constraints. Search algorithms like BFS and DFS where used by the planning engine. Use http://editor.planning.domains/ to play/run files
 
-The problem file P1-3 is attached here and describes the game to be solved.
+The problem file P1-3 is attached in this README file and describes the game to be solved.
